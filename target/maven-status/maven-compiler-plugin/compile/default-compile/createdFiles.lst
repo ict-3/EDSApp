@@ -1,0 +1,12 @@
+com\muzammilnagariya\edsapp\config\CrossOriginResourceSharingFilter.class
+com\muzammilnagariya\edsapp\service\HealthCheckService.class
+com\muzammilnagariya\edsapp\entity\Department.class
+ejb\EDSSessionBean.class
+com\muzammilnagariya\edsapp\entity\Salary_.class
+com\muzammilnagariya\edsapp\service\ExampleService.class
+com\muzammilnagariya\edsapp\entity\Employee.class
+com\muzammilnagariya\edsapp\config\Producers.class
+com\muzammilnagariya\edsapp\entity\Salary.class
+com\muzammilnagariya\edsapp\config\BootStrap.class
+com\muzammilnagariya\edsapp\entity\Department_.class
+com\muzammilnagariya\edsapp\entity\Employee_.class

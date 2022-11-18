@@ -1,0 +1,8 @@
+java -jar payara-micro.jar --deploy MSAApp/artifact/MSAApp.war --port 8085 --addlibs mysql-connector.jar --domainconfig domain.xml
+
+- extract jwt.jar file
+- roles change
+
+- MSAApp -> @DeclareRoles and @LoginConfig("MP-JWT") and microprofile-config -> copy paste 2 lines and Example Service -> @RolesAllowed
+
+- Client -> @ClientHeaderParam(name,value) -> generateJWT() -> microprofile-config -> jwt-string=token.jwt
